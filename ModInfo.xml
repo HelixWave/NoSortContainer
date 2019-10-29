@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="NoSortContainer" />
+		<Description value="Disables sort in container button" />
+		<Author value="HelixWave" />
+		<Version value="1.0" />
+		<Website value="https://helixwave.com" />
+	</ModInfo>
+</xml>
